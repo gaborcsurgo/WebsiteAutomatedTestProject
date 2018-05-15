@@ -11,7 +11,7 @@
 ## DoclerStudyTCs project
 
 This is an automated test project for website testing.
-In the testClass.cs please change the path of the browser driver for the required operation.
+In the TestClass.cs please change the path of the browser driver for the required operation.
 
 This project is a unit test project (in C#) which contains the automated test.
 The aim of this project is to test automatically all the 12 requirements. 
