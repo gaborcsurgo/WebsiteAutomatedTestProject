@@ -1,7 +1,7 @@
 ## WebsiteAutomatedTestProject
-# 2018-05-15
+2018-05-15
 
-# Used softwares
+### Used softwares
 
   - Visual Studio 2017 Community
   - Google Chrome (latest)
@@ -19,12 +19,12 @@ Contains:
 	- 3 page objects (covers all pages according to the study description)
 
 Packages:
-		- MSTest.TestAdapter.1.2.0
-		- MSTest.TestFramework.1.2.0
-		- NUnit.3.10.1
-		- Selenium.Chrome.WebDriver.2.38
-		- Selenium.Support.3.12.0
-		- Selenium.WeDriver.3.12.0
+	- MSTest.TestAdapter.1.2.0
+	- MSTest.TestFramework.1.2.0
+	- NUnit.3.10.1
+	- Selenium.Chrome.WebDriver.2.38
+	- Selenium.Support.3.12.0
+	- Selenium.WeDriver.3.12.0
 		
 This project is a unit test project (in C#) which contains the automated test.
 The aim of this project is to test automatically all the 12 requirements. 
