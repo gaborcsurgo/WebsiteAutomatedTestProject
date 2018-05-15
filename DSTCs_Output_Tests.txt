@@ -1,0 +1,8 @@
+﻿[5/12/2018 2:02:46 PM Informational] ------ Load Playlist started ------
+[5/12/2018 2:02:46 PM Informational] ========== Load Playlist finished (0:00:00.009) ==========
+[5/12/2018 2:02:49 PM Informational] ------ Run test started ------
+[5/12/2018 2:02:52 PM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[5/12/2018 2:02:52 PM Informational] Running all tests in C:\Users\EZCSUGA\source\repos\DoclerStudyTCs\DoclerStudyTCs\bin\Debug\DoclerStudyTCs.dll
+[5/12/2018 2:02:52 PM Informational] NUnit3TestExecutor converted 0 of 0 NUnit test cases
+[5/12/2018 2:02:52 PM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[5/12/2018 2:03:02 PM Informational] ========== Run test finished: 1 run (0:00:12.821) ==========
