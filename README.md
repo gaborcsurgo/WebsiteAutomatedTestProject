@@ -26,7 +26,6 @@ the code. In Visual Studio use Test Explorer to run the tests.
   - UnitTest1.cs which contains the TestMethod and calls the methods from the TestClass.cs
   - TestClass.cs which calls the page objects
   - 3 page objects (covers all pages according to the study description)
-  - Selenium IDE 2.9.1	
 
 ### Packages
 
